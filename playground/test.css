@@ -1,0 +1,42 @@
+
+body {
+  padding-top: 50px;
+  background-color: #f2f3f4;
+}
+
+.sections {
+  padding: 26em 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#one {
+  background-color: #066;
+  color: #fff;
+}
+
+#two {
+  background-color: #f0aa66;
+  color: #000;
+}
+
+#three {
+  background-color: #ff66aa;
+  color: #333;
+}
+
+#four {
+  background-color: #0033aa;
+  color: #fff;
+}
+
+#four {
+  background-color: #ff33aa;
+  color: #fff;
+}
+
+#footer {
+  padding: 15em 0 10em;
+  background-color: #fff;
+  color: #999;
+}
